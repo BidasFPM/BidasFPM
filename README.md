@@ -84,7 +84,7 @@ These are the technologies I use or study.
 </picture>
 
 <!-- SNAPSHOT:START -->
-<sub>Last successful sync: 2026-10-15 UTC · Contribution period: 2025-10-12 → 2026-10-15 · Projects ordered by latest push.</sub>
+<sub>Last successful sync: 2026-10-16 UTC · Contribution period: 2025-10-12 → 2026-10-16 · Projects ordered by latest push.</sub>
 <!-- SNAPSHOT:END -->
 
 <picture>
@@ -120,11 +120,11 @@ Public projects, refreshed automatically. Start with the source — then make it
 <!-- PROJECTS:START -->
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/BidasFPM/Prism-Launcher-RPC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-1.svg" /><img src="assets/project-1-dark.svg" width="100%" alt="Prism-Launcher-RPC — open source repository" /></picture></a></td>
-<td width="50%"><a href="https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-2.svg" /><img src="assets/project-2-dark.svg" width="100%" alt="R.E.P.O-Cosmetic-Unlocker — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-1.svg" /><img src="assets/project-1-dark.svg" width="100%" alt="Risk-of-Rain-2-Profile-Manager — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/Prism-Launcher-RPC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-2.svg" /><img src="assets/project-2-dark.svg" width="100%" alt="Prism-Launcher-RPC — open source repository" /></picture></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-3.svg" /><img src="assets/project-3-dark.svg" width="100%" alt="Risk-of-Rain-2-Profile-Manager — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-3.svg" /><img src="assets/project-3-dark.svg" width="100%" alt="R.E.P.O-Cosmetic-Unlocker — open source repository" /></picture></a></td>
 <td></td>
 </tr>
 </table>
@@ -162,12 +162,12 @@ Featured projects are ranked by stars, then forks — popularity belongs to the 
 ## ⚡ Development log
 
 <!-- ACTIVITY:START -->
+- `2026-10-16` · Published release [RiskofRain2ProfileManager](https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager/releases/tag/RiskofRain2ProfileManager)
 - `2026-10-13` · Pushed code to [D4rkpt/AutoLauncher-for-PaperMC](https://github.com/D4rkpt/AutoLauncher-for-PaperMC)
 - `2026-10-05` · Pushed code to [BidasFPM/Prism-Launcher-RPC](https://github.com/BidasFPM/Prism-Launcher-RPC)
 - `2026-10-05` · Published release [PrismLauncherRPC](https://github.com/BidasFPM/Prism-Launcher-RPC/releases/tag/PrismLauncherRPC)
 - `2026-10-05` · Created branch `main` in [BidasFPM/Prism-Launcher-RPC](https://github.com/BidasFPM/Prism-Launcher-RPC)
 - `2026-10-05` · Pushed code to [BidasFPM/Risk-of-Rain-2-Profile-Manager](https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager)
-- `2026-10-05` · Published release [REPO\_Cosmetic\_Unlocker](https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker/releases/tag/REPO_Cosmetic_Unlocker)
 <!-- ACTIVITY:END -->
 
 ## 👾 Commit arcade
