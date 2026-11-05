@@ -84,7 +84,7 @@ These are the technologies I use or study.
 </picture>
 
 <!-- SNAPSHOT:START -->
-<sub>Last successful sync: 2026-11-04 UTC · Contribution period: 2025-11-02 → 2026-11-04 · Projects ordered by latest push.</sub>
+<sub>Last successful sync: 2026-11-05 UTC · Contribution period: 2025-11-02 → 2026-11-05 · Projects ordered by latest push.</sub>
 <!-- SNAPSHOT:END -->
 
 <picture>
@@ -166,8 +166,6 @@ Featured projects are ranked by stars, then forks — popularity belongs to the 
 - `2026-10-16` · Published release [RiskofRain2ProfileManager](https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager/releases/tag/RiskofRain2ProfileManager)
 - `2026-10-13` · Pushed code to [D4rkpt/AutoLauncher-for-PaperMC](https://github.com/D4rkpt/AutoLauncher-for-PaperMC)
 - `2026-10-05` · Pushed code to [BidasFPM/Prism-Launcher-RPC](https://github.com/BidasFPM/Prism-Launcher-RPC)
-- `2026-10-05` · Published release [PrismLauncherRPC](https://github.com/BidasFPM/Prism-Launcher-RPC/releases/tag/PrismLauncherRPC)
-- `2026-10-05` · Created branch `main` in [BidasFPM/Prism-Launcher-RPC](https://github.com/BidasFPM/Prism-Launcher-RPC)
 <!-- ACTIVITY:END -->
 
 ## 👾 Commit arcade
