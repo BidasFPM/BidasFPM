@@ -84,7 +84,7 @@ These are the technologies I use or study.
 </picture>
 
 <!-- SNAPSHOT:START -->
-<sub>Last successful sync: 2026-11-14 UTC · Contribution period: 2025-11-09 → 2026-11-14 · Projects ordered by latest push.</sub>
+<sub>Last successful sync: 2026-11-15 UTC · Contribution period: 2025-11-16 → 2026-11-15 · Projects ordered by latest push.</sub>
 <!-- SNAPSHOT:END -->
 
 <picture>
@@ -166,7 +166,6 @@ Featured projects are ranked by stars, then forks — popularity belongs to the 
 - `2026-11-13` · Published release [v1.1](https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker/releases/tag/v1.1)
 - `2026-10-16` · Pushed code to [BidasFPM/Risk-of-Rain-2-Profile-Manager](https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager)
 - `2026-10-16` · Published release [RiskofRain2ProfileManager](https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager/releases/tag/RiskofRain2ProfileManager)
-- `2026-10-13` · Pushed code to [D4rkpt/AutoLauncher-for-PaperMC](https://github.com/D4rkpt/AutoLauncher-for-PaperMC)
 <!-- ACTIVITY:END -->
 
 ## 👾 Commit arcade
