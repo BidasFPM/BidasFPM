@@ -84,7 +84,7 @@ These are the technologies I use or study.
 </picture>
 
 <!-- SNAPSHOT:START -->
-<sub>Last successful sync: 2026-11-17 UTC · Contribution period: 2025-11-16 → 2026-11-17 · Projects ordered by latest push.</sub>
+<sub>Last successful sync: 2026-11-18 UTC · Contribution period: 2025-11-16 → 2026-11-18 · Projects ordered by latest push.</sub>
 <!-- SNAPSHOT:END -->
 
 <picture>
@@ -120,12 +120,12 @@ Public projects, refreshed automatically. Start with the source — then make it
 <!-- PROJECTS:START -->
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-1.svg" /><img src="assets/project-1-dark.svg" width="100%" alt="R.E.P.O-Cosmetic-Unlocker — open source repository" /></picture></a></td>
-<td width="50%"><a href="https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-2.svg" /><img src="assets/project-2-dark.svg" width="100%" alt="Risk-of-Rain-2-Profile-Manager — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/Black-Glove-Cursor-Pack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-1.svg" /><img src="assets/project-1-dark.svg" width="100%" alt="Black-Glove-Cursor-Pack — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-2.svg" /><img src="assets/project-2-dark.svg" width="100%" alt="R.E.P.O-Cosmetic-Unlocker — open source repository" /></picture></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/BidasFPM/Prism-Launcher-RPC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-3.svg" /><img src="assets/project-3-dark.svg" width="100%" alt="Prism-Launcher-RPC — open source repository" /></picture></a></td>
-<td></td>
+<td width="50%"><a href="https://github.com/BidasFPM/Risk-of-Rain-2-Profile-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-3.svg" /><img src="assets/project-3-dark.svg" width="100%" alt="Risk-of-Rain-2-Profile-Manager — open source repository" /></picture></a></td>
+<td width="50%"><a href="https://github.com/BidasFPM/Prism-Launcher-RPC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-4.svg" /><img src="assets/project-4-dark.svg" width="100%" alt="Prism-Launcher-RPC — open source repository" /></picture></a></td>
 </tr>
 </table>
 <!-- PROJECTS:END -->
@@ -162,6 +162,7 @@ Featured projects are ranked by stars, then forks — popularity belongs to the 
 ## ⚡ Development log
 
 <!-- ACTIVITY:START -->
+- `2026-11-17` · Created branch `main` in [BidasFPM/Black-Glove-Cursor-Pack](https://github.com/BidasFPM/Black-Glove-Cursor-Pack)
 - `2026-11-13` · Pushed code to [BidasFPM/R.E.P.O-Cosmetic-Unlocker](https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker)
 - `2026-11-13` · Published release [v1.1](https://github.com/BidasFPM/R.E.P.O-Cosmetic-Unlocker/releases/tag/v1.1)
 <!-- ACTIVITY:END -->
